@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Oswald:wght@200..700&display=swap');
+
+body {
+  background-color: lightgreen;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  
+}
+h2 {
+  color: black;
+}
+
+h2:hover {
+  color:red;
+}
+
+input:hover {
+  background: lightgray;
+}
+
+button {
+    font-family: "Kdam Thmor Pro", sans-serif;
+  font-optical-sizing: auto;
+  button-weight: 400px;
+  font-style: normal;
+}
+
+input:focus {
+  border-color: red;
+  box-shadow: 1px 1px 2px 0 red;
+}
