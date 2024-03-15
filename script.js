@@ -1,5 +1,3 @@
-alert("Hey!")
-
 const button = document.querySelector('#enter');
 const login = document.querySelector('#login');
 const pass = document.querySelector('#pass');
